@@ -1,12 +1,14 @@
-### Hi there 👋
-- 🔭 I’m currently working on ...
+### Hi All 👋
+
+I finally decided to clean up my repos and start over
+
 - 🌱 I’m currently learning ...
+
 
 <!--
 **mrgypnocat/mrgypnocat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
