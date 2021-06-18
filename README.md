@@ -2,9 +2,6 @@
 
 I finally decided to clean up my repos and start over
 
-- 🌱 I’m currently learning ...
-
-
 <!--
 **mrgypnocat/mrgypnocat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
