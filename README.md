@@ -25,13 +25,13 @@
 
 ### Things we can talk about[^1]
 
-- Why I started my career as a Windows developer but talk so much about Linux and why I use Linux in my daily life
+- I started my career as a Windows developer, but ended up choosing Linux for work and even everyday use.
 
 ![image](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![image](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 - Secure development for Debian and it's derivatives such as Astra Linux
-- Why I don't recommend Ubuntu for professional use and other
+- Why Ubuntu is not the best choice for professional use and other
 - Differences and features of software development and support for deb-like and rpm-like systems
 
 ![image](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white) 
