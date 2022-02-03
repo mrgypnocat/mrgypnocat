@@ -4,10 +4,10 @@
 
 ![](/assets/mrgypnocat.jpg)
 
-- I'm  **Information Security Specialist** | **Systems Analyst** | **MrGypnocat**
+- I'm :  **Information Security Specialist** | **Systems Analyst** | **MrGypnocat**
 - About me : **Hefty** | **Unkind** | **Fluffy**
-- Currently practicing **Software architecture**
-- Willing to contribute in **Open Source Projects**
+- Currently practicing : **Software architecture**
+- Willing to contribute in : **Open Source Projects**
 
 ### My repos
 - Interesting projects (forks)
