@@ -1,3 +1,3 @@
 User-Agent: *
 Allow: /
-sitemap: http://mrgypnocat.ru/sitemap.xml
+sitemap: http://mrgypnocat.github.io/sitemap.xml
